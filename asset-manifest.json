@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jon-and-martina-wedding/static/css/main.51a9dec4.chunk.css",
+    "main.js": "/jon-and-martina-wedding/static/js/main.53abeae0.chunk.js",
+    "main.js.map": "/jon-and-martina-wedding/static/js/main.53abeae0.chunk.js.map",
+    "runtime-main.js": "/jon-and-martina-wedding/static/js/runtime-main.20a79a8e.js",
+    "runtime-main.js.map": "/jon-and-martina-wedding/static/js/runtime-main.20a79a8e.js.map",
+    "static/js/2.be46a9d9.chunk.js": "/jon-and-martina-wedding/static/js/2.be46a9d9.chunk.js",
+    "static/js/2.be46a9d9.chunk.js.map": "/jon-and-martina-wedding/static/js/2.be46a9d9.chunk.js.map",
+    "static/js/3.a4f2e1d2.chunk.js": "/jon-and-martina-wedding/static/js/3.a4f2e1d2.chunk.js",
+    "static/js/3.a4f2e1d2.chunk.js.map": "/jon-and-martina-wedding/static/js/3.a4f2e1d2.chunk.js.map",
+    "index.html": "/jon-and-martina-wedding/index.html",
+    "static/css/main.51a9dec4.chunk.css.map": "/jon-and-martina-wedding/static/css/main.51a9dec4.chunk.css.map",
+    "static/js/2.be46a9d9.chunk.js.LICENSE.txt": "/jon-and-martina-wedding/static/js/2.be46a9d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20a79a8e.js",
+    "static/js/2.be46a9d9.chunk.js",
+    "static/css/main.51a9dec4.chunk.css",
+    "static/js/main.53abeae0.chunk.js"
+  ]
+}
